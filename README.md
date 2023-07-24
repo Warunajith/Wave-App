@@ -1,5 +1,7 @@
 # Wave-App
 
+This Wave app Predicts the Real State prices based on several Factors.
+
 1. Run the Wave Server
    
      Download and run the suitable Wave Server on your local machine using this link.
